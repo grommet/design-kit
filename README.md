@@ -1,4 +1,4 @@
-![alt text](https://github.com/hpe-design/components/blob/master/Previews/grommet-2-open-theme.png "Components")
+![alt text](https://github.com/grommet/design-kit/blob/master/Previews/grommet-2-open-theme.png "Components")
 
 # Grommet Design Kit
 
