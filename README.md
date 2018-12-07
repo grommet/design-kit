@@ -27,7 +27,7 @@ There are two ways to use the Sketch Component Library; One, by manually downloa
 **Click the link to add to you your Sketch app, [Sketch Component Library](https://sketch.cloud/s/1xY34)**
 
 If you don't see this window, goto the Menubar and navigate to, `Sketch/ Preferences.../ Libraries` or use shortcut `command + ,` and add it manually with the `+` button. (see below)
-![alt text](https://github.com/hpe-design/components/blob/master/Previews/sketch-library.png "Components")
+![alt text](https://github.com/grommet/design-kit/blob/master/Previews/sketch-lib.png "Components")
 
 ---
 
