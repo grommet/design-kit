@@ -44,7 +44,7 @@ Adobe XD is a great alternative to Sketch (Mac only) for users looking for desig
 ![alt text](https://github.com/hpe-design/components/blob/master/Previews/framer.png "Framer")
 
 ## Framer X
-The closet we have to parity between the designer and developer. Framer X takes Sketch libraries to the next level by not only having design components but coded components in the same design tool, providing the closest fidelity to the running app.
+The closest we have to parity between the designer and developer. Framer X takes Sketch libraries to the next level by not only having design components but coded components in the same design tool, providing the closest fidelity to the running app.
 
 **Download the [Framer X Components](https://github.com/grommet/design-kit/blob/master/grommet-2-open-theme.framerx)**
 
